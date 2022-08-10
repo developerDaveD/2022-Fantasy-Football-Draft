@@ -39,6 +39,10 @@ main {
    font-family: 'Chakra Petch', sans-serif;
 }
 
+.selection-list li {
+   list-style-type: none;
+}
+
 .selection-list i {
    color: rgb(199, 26, 26);
 }
