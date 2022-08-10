@@ -9,13 +9,14 @@ body {
 }
 
 main {
+
    background-image: url('background-image.jpg');
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-size: cover;
    background-position: center center;
-   background-color: rgb(40, 54, 38);
-   background-blend-mode: soft-light;
+   background-color: rgb(28, 34, 29);
+   background-blend-mode: soft-light; 
    font-family: 'Kanit', sans-serif;
    color: rgb(253, 253, 253);
    margin: auto;
