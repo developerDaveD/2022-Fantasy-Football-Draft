@@ -3,6 +3,7 @@
 
 body {
    margin-top: 6vh;
+   margin-bottom: 6vh;
    background: rgb(254,254,254);
    background: radial-gradient(circle, rgba(254,254,254,1) 33%, rgb(91, 91, 91) 100%);
 }
