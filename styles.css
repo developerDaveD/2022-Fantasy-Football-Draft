@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600&display=swap');
+
+body {
+   margin-top: 6vh;
+   background: rgb(254,254,254);
+   background: radial-gradient(circle, rgba(254,254,254,1) 33%, rgba(33,33,33,1) 100%);
+}
+
+main {
+   background-image: url('background-image.jpg');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-color: rgb(47, 53, 48);
+   background-blend-mode: soft-light;
+   font-family: 'Kanit', sans-serif;
+   color: rgb(253, 253, 253);
+   margin: auto;
+   padding: .2rem;
+   width: 85%;
+   max-width: 1000px;
+   border-radius: 6px;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+
+.draft-heading {
+   margin: auto;
+   width: 96%;
+   font-family: 'Chakra Petch', sans-serif;
+   font-size: 1.2rem;
+}
+
+.selection-list {
+   margin: auto;
+   width: 90%;
+   font-family: 'Chakra Petch', sans-serif;
+}
+
+.selection-list i {
+   color: rgb(199, 26, 26);
+}
+
+.draft-notes {
+   margin: auto;
+   width: 96%;
+   font-family: 'Chakra Petch', sans-serif;
+   color: #ffffff;
+}
