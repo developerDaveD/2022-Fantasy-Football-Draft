@@ -4,12 +4,10 @@
 body {
    margin-top: 6vh;
    margin-bottom: 6vh;
-   background: rgb(255, 255, 255);
-   background: radial-gradient(circle, rgb(255, 255, 255) 33%, rgb(175, 175, 175) 100%);
+   background: rgb(17, 16, 16);
 }
 
 main {
-
    background-image: url('background-image.jpg');
    background-repeat: no-repeat;
    background-attachment: fixed;
@@ -23,6 +21,7 @@ main {
    padding: .2rem;
    width: 90%;
    max-width: 1000px;
+   border: 1px solid rgb(101, 101, 101);
    border-radius: 6px;
    box-shadow: rgba(5, 5, 5, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
